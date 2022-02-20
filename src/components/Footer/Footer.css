@@ -1,0 +1,13 @@
+.footer {
+  padding: 1rem;
+  background-color: rgb(46, 47, 52);
+  bottom: 0;
+  left: 0;
+  width: 100%;
+}
+.text-color {
+  color: white;
+}
+p span :hover {
+  color: #00ff00;
+}

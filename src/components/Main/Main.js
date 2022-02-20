@@ -89,9 +89,6 @@ function Main() {
     });
   };
 
-  /* const openProjectsURL = () => {
-    window.open(myProfileDetails.profile_links.github.link, "_blank");
-  }; */
   return (
     <div>
       <div>
@@ -195,7 +192,7 @@ function Main() {
           <Contact details={myProfileDetails} />
         </div>
         <Follow details={myProfileDetails} />
-        <Footer details={myProfileDetails} />
+        <Footer details={myProfileDetails} sTC={scrollToContact}/>
       </div>
     </div>
   );
