@@ -32,11 +32,9 @@ function Projects(props) {
             >
               <CardTitle tag="h5">Login details</CardTitle>
               <CardText>
-                <p>
-                  Username/Email Address: appadmnchk@gmail.com
-                  <br />
-                  Password: @dmin98765!
-                </p>
+                Username/Email Address: appadmnchk@gmail.com
+                <br />
+                Password: @dmin98765!
               </CardText>
             </Card>
           </div>
@@ -51,11 +49,9 @@ function Projects(props) {
             >
               <CardTitle tag="h5">Payment details</CardTitle>
               <CardText>
-                <p>
-                  Test Card No: 4111 1111 1111 1111
-                  <br />
-                  Test Card exp: 09/23
-                </p>
+                Test Card No: 4111 1111 1111 1111
+                <br />
+                Test Card exp: 09/23
               </CardText>
             </Card>
           </div>
@@ -89,12 +85,12 @@ function Projects(props) {
                     style={{ marginLeft: "3%" }}
                   />
                   <CardBody>
-                    <CardText>
+                    
                       <ul>
                         <li>{project.description.para1}</li>
                         <li>{project.description.para2}</li>
                       </ul>
-                    </CardText>
+                    
                     <CardLink
                       href={project.link}
                       target="_blank"

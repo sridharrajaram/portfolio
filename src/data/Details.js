@@ -78,60 +78,73 @@ export const DETAILS = {
   ],
   skills: [
     {
+      skillid:"1",
       image: "assets/images/html5.svg",
       name: "HTML5",
       rating: "⭐⭐⭐⭐",
     },
     {
+      skillid:"2",
       image: "assets/images/css3.svg",
       name: "CSS3",
       rating: "⭐⭐⭐",
     },
     {
+      skillid:"3",
       image: "assets/images/bootstrap.svg",
       name: "BOOTSTRAP",
       rating: "⭐⭐⭐⭐",
     },
     {
+      skillid:"4",
       image: "assets/images/javascript.svg",
       name: "JavaScript",
       rating: "⭐⭐⭐",
     },
     {
+      skillid:"5",
       image: "assets/images/react.svg",
       name: "ReactJS",
       rating: "⭐⭐⭐⭐",
     },
     {
+      skillid:"6",
       image: "assets/images/axios.svg",
       name: "Axios",
       rating: "⭐⭐⭐⭐",
     },
     {
+      skillid:"7",
       image: "assets/images/nodejs.svg",
       name: "NodeJS",
       rating: "⭐⭐⭐⭐",
     },
     {
+      skillid:"8",
       image: "assets/images/expressjs.svg",
       name: "ExpressJS",
       rating: "⭐⭐⭐⭐",
     },
     {
+      skillid:"9",
       image: "assets/images/mongodb.svg",
       name: "MongoDB",
       rating: "⭐⭐⭐",
     },
     {
+      skillid:"10",
       image: "assets/images/git.svg",
       name: "Git",
       rating: "⭐⭐⭐⭐",
     },
     {
+      skillid:"11",
       image: "assets/images/netlify.svg",
       name: "Netlify",
       rating: "⭐⭐⭐",
-    },{
+    },
+    {
+      skillid:"12",
       image: "assets/images/heroku.svg",
       name: "Heroku",
       rating: "⭐⭐⭐",

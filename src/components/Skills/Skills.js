@@ -13,7 +13,7 @@ function Skills(props) {
             {
               myProfileDetails.skills.map((skill) => {
                 return (
-                  <div className="col-12 col-md-3 skill-tile text-center">
+                  <div key={skill.skillid} className="col-12 col-md-3 skill-tile text-center">
                     <img src={skill.image} alt="Skill" width="30%" height="20%" />
                     <p>{skill.name}</p>
                     <p>{skill.rating}</p>
