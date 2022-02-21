@@ -16,13 +16,23 @@ function Follow(props) {
       <br />
       <div className="container horizontal-links">
         <img
-          style={{ width: "35px", height: "35px", margin: "5px", cursor:"pointer"}}
+          style={{
+            width: "35px",
+            height: "35px",
+            margin: "5px",
+            cursor: "pointer",
+          }}
           src={myProfileDetails.profile_links.github.image}
           alt="GitHub"
           onClick={() => openLink(myProfileDetails.profile_links.github)}
         />
         <img
-          style={{ width: "35px", height: "35px", margin: "5px", cursor:"pointer" }}
+          style={{
+            width: "35px",
+            height: "35px",
+            margin: "5px",
+            cursor: "pointer",
+          }}
           src={myProfileDetails.profile_links.linkedin.image}
           alt="LinkedIn"
           onClick={() => openLink(myProfileDetails.profile_links.linkedin)}

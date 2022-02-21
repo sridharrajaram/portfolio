@@ -1,32 +1,32 @@
 #contact {
-    background-color:rgb(46, 47, 52);
-    color: #fff;
-    height: 100%;
-    border-top: 0;
-    padding-bottom: 10%;
-  }
-#contact .col-md-4{
-    background: mediumseagreen;
-    padding: 1em 2em 1em 2em;
-    border-top-left-radius: 0.2rem;
-    border-bottom-left-radius: 0.2rem;
-    color:black;
+  background-color: rgb(46, 47, 52);
+  color: #fff;
+  height: 100%;
+  border-top: 0;
+  padding-bottom: 10%;
+}
+#contact .col-md-4 {
+  background: mediumseagreen;
+  padding: 1em 2em 1em 2em;
+  border-top-left-radius: 0.2rem;
+  border-bottom-left-radius: 0.2rem;
+  color: black;
 }
 
-#contact .col-md-8{
-    background: #27292d;
-    padding: 2%;
-    border-top-right-radius: 0.2rem;
-    border-bottom-right-radius: 0.2rem;
-    color:black;
+#contact .col-md-8 {
+  background: #27292d;
+  padding: 2%;
+  border-top-right-radius: 0.2rem;
+  border-bottom-right-radius: 0.2rem;
+  color: black;
 }
-.contact-form Label{
-    font-weight:600;
-    color:white;
+.contact-form Label {
+  font-weight: 600;
+  color: white;
 }
-.contact-form Button{
-    background:mediumseagreen;
-    color: black;
-    font-weight: 600;
-    width: 25%;
+.contact-form Button {
+  background: mediumseagreen;
+  color: black;
+  font-weight: 600;
+  width: 25%;
 }

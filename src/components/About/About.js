@@ -12,17 +12,17 @@ function About(props) {
         <div className="row">
           <div className="col-12 col-sm-6" style={{ padding: "20px" }}>
             <figure className="imgeffect">
-            <motion.img
-              initial={{ x: "-100vw" }}
-              animate={{ x: 0 }}
-              transition={{ delay: 0.5, type: "spring", stiffness: 40 }}
-              src={myProfileDetails.profilephoto}
-              alt="Profile"
-              width="70%"
-              height="80%"
-              style={{borderRadius:"50%"}}
-            />
-              </figure>
+              <motion.img
+                initial={{ x: "-100vw" }}
+                animate={{ x: 0 }}
+                transition={{ delay: 0.5, type: "spring", stiffness: 40 }}
+                src={myProfileDetails.profilephoto}
+                alt="Profile"
+                width="70%"
+                height="80%"
+                style={{ borderRadius: "50%" }}
+              />
+            </figure>
           </div>
           <motion.div
             className="col-12 col-sm-6"

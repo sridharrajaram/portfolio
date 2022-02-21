@@ -20,7 +20,7 @@
   padding: 0.6rem 1.4rem;
   font-weight: 600;
   line-height: 1;
-  color:#00FF00;
+  color: #00ff00;
 }
 
 #projects {
@@ -46,7 +46,7 @@
   box-shadow: #5ae921 0px 10px 10px -10px;
 }
 
-.lgndetails:hover{
+.lgndetails:hover {
   transform: scale(1.02);
   box-shadow: #5ae921 0px 10px 10px -10px;
 }
@@ -65,12 +65,12 @@ section {
 .projectbutton {
   font: bold 16px Arial;
   text-decoration: none;
-  background-color:#00FF00;
+  background-color: #00ff00;
   color: brown;
   padding: 3px 6px 3px 6px;
-  border-top: 1px solid #CCCCCC;
+  border-top: 1px solid #cccccc;
   border-right: 1px solid #333333;
   border-bottom: 1px solid #333333;
-  border-left: 1px solid #CCCCCC;
+  border-left: 1px solid #cccccc;
   border-radius: 12%;
 }

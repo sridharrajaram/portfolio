@@ -85,12 +85,11 @@ function Projects(props) {
                     style={{ marginLeft: "3%" }}
                   />
                   <CardBody>
-                    
-                      <ul>
-                        <li>{project.description.para1}</li>
-                        <li>{project.description.para2}</li>
-                      </ul>
-                    
+                    <ul>
+                      <li>{project.description.para1}</li>
+                      <li>{project.description.para2}</li>
+                    </ul>
+
                     <CardLink
                       href={project.link}
                       target="_blank"

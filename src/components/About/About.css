@@ -27,5 +27,5 @@ section {
 
 .imgeffect:hover img {
   -webkit-filter: grayscale(0);
-	filter: grayscale(0);
+  filter: grayscale(0);
 }

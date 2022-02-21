@@ -103,7 +103,7 @@ function Main() {
             <img
               src={myProfileDetails.logo}
               alt={myProfileDetails.name}
-              style={{ width: "30px", height: "30px" , color:"white"}}
+              style={{ width: "30px", height: "30px", color: "white" }}
             />
           </NavbarBrand>
           <NavbarToggler
@@ -192,7 +192,7 @@ function Main() {
           <Contact details={myProfileDetails} />
         </div>
         <Follow details={myProfileDetails} />
-        <Footer details={myProfileDetails} sTC={scrollToContact}/>
+        <Footer details={myProfileDetails} sTC={scrollToContact} />
       </div>
     </div>
   );

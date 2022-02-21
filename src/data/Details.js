@@ -1,7 +1,7 @@
 export const DETAILS = {
   name: "Sridhar Rajaram",
   logo: "assets/images/name.svg",
-  location:"Bengaluru, Karnataka, India",
+  location: "Bengaluru, Karnataka, India",
   resumeLink:
     "https://drive.google.com/file/d/1tWnvRY7CYPifTv1AOzFrjFjLOz4Tt3c7/view?usp=sharing",
   profile_links: {
@@ -79,73 +79,73 @@ export const DETAILS = {
   ],
   skills: [
     {
-      skillid:"1",
+      skillid: "1",
       image: "assets/images/html5.svg",
       name: "HTML5",
       rating: "⭐⭐⭐⭐",
     },
     {
-      skillid:"2",
+      skillid: "2",
       image: "assets/images/css3.svg",
       name: "CSS3",
       rating: "⭐⭐⭐",
     },
     {
-      skillid:"3",
+      skillid: "3",
       image: "assets/images/bootstrap.svg",
       name: "BOOTSTRAP",
       rating: "⭐⭐⭐⭐",
     },
     {
-      skillid:"4",
+      skillid: "4",
       image: "assets/images/javascript.svg",
       name: "JavaScript",
       rating: "⭐⭐⭐",
     },
     {
-      skillid:"5",
+      skillid: "5",
       image: "assets/images/react.svg",
       name: "ReactJS",
       rating: "⭐⭐⭐⭐",
     },
     {
-      skillid:"6",
+      skillid: "6",
       image: "assets/images/axios.svg",
       name: "Axios",
       rating: "⭐⭐⭐⭐",
     },
     {
-      skillid:"7",
+      skillid: "7",
       image: "assets/images/nodejs.svg",
       name: "NodeJS",
       rating: "⭐⭐⭐⭐",
     },
     {
-      skillid:"8",
+      skillid: "8",
       image: "assets/images/expressjs.svg",
       name: "ExpressJS",
       rating: "⭐⭐⭐⭐",
     },
     {
-      skillid:"9",
+      skillid: "9",
       image: "assets/images/mongodb.svg",
       name: "MongoDB",
       rating: "⭐⭐⭐",
     },
     {
-      skillid:"10",
+      skillid: "10",
       image: "assets/images/git.svg",
       name: "Git",
       rating: "⭐⭐⭐⭐",
     },
     {
-      skillid:"11",
+      skillid: "11",
       image: "assets/images/netlify.svg",
       name: "Netlify",
       rating: "⭐⭐⭐",
     },
     {
-      skillid:"12",
+      skillid: "12",
       image: "assets/images/heroku.svg",
       name: "Heroku",
       rating: "⭐⭐⭐",
@@ -155,10 +155,10 @@ export const DETAILS = {
     {
       id: "1",
       title: "Money Manager",
-      subtitle:"Expense Tracker Application",
+      subtitle: "Expense Tracker Application",
       link: "https://sridharrajaram-moneymanager-client.netlify.app/",
-      FE_ghlink:"https://github.com/sridharrajaram/moneymanager_client.git",
-      BE_ghlink:"https://github.com/sridharrajaram/moneymanager_server.git",
+      FE_ghlink: "https://github.com/sridharrajaram/moneymanager_client.git",
+      BE_ghlink: "https://github.com/sridharrajaram/moneymanager_server.git",
       image: "assets/images/moneymanager.png",
       description: {
         para1: "The application help us to maintain our daily expenses.",
@@ -169,10 +169,10 @@ export const DETAILS = {
     {
       id: "2",
       title: "CRM",
-      subtitle:"Customer Portal Application",
+      subtitle: "Customer Portal Application",
       link: "https://sridharrajaram-crmapp-client.netlify.app/",
-      FE_ghlink:"https://github.com/sridharrajaram/crmapp_client.git",
-      BE_ghlink:"https://github.com/sridharrajaram/crmapp_server.git",
+      FE_ghlink: "https://github.com/sridharrajaram/crmapp_client.git",
+      BE_ghlink: "https://github.com/sridharrajaram/crmapp_server.git",
       image: "assets/images/crmapplication.png",
       description: {
         para1:
@@ -184,13 +184,14 @@ export const DETAILS = {
     {
       id: "3",
       title: "Ecommerce",
-      subtitle:"Shopping Application",
+      subtitle: "Shopping Application",
       link: "https://sridharrajaram-ecommerce-client.netlify.app/",
-      FE_ghlink:"https://github.com/sridharrajaram/ecommerce_client.git",
-      BE_ghlink:"https://github.com/sridharrajaram/ecommerce_server.git",
+      FE_ghlink: "https://github.com/sridharrajaram/ecommerce_client.git",
+      BE_ghlink: "https://github.com/sridharrajaram/ecommerce_server.git",
       image: "assets/images/ecommerce.png",
       description: {
-        para1: "website that allows you to buy and sell tangible goods, digital products or services online. Card and Paypal Payment Integrated with this app. For testing use card '4111 1111 1111 1111' and exp '09/23' ",
+        para1:
+          "website that allows you to buy and sell tangible goods, digital products or services online. Card and Paypal Payment Integrated with this app. For testing use card '4111 1111 1111 1111' and exp '09/23' ",
         para2:
           "designed for user and admin roles. admin can manage the orders placed and update the status of the order",
       },
@@ -198,14 +199,13 @@ export const DETAILS = {
     {
       id: "4",
       title: "Hotel Booking",
-      subtitle:"Booking Application",
+      subtitle: "Booking Application",
       link: "https://sridharrajaram-hotelbooking-client.netlify.app/",
-      FE_ghlink:"https://github.com/sridharrajaram/hotelbooking_client.git",
-      BE_ghlink:"https://github.com/sridharrajaram/hotelbooking_server.git",
+      FE_ghlink: "https://github.com/sridharrajaram/hotelbooking_client.git",
+      BE_ghlink: "https://github.com/sridharrajaram/hotelbooking_server.git",
       image: "assets/images/hotelbooking.png",
       description: {
-        para1:
-          "Book premium quality hotel rooms in our hotel booking App",
+        para1: "Book premium quality hotel rooms in our hotel booking App",
         para2:
           "Experience high-quality stay across all hotels at budget-friendly prices.",
       },
@@ -213,13 +213,14 @@ export const DETAILS = {
     {
       id: "5",
       title: "CommitHere",
-      subtitle:"Blogging Application",
+      subtitle: "Blogging Application",
       link: "https://sridharrajaram-blogapp-client.netlify.app/",
-      FE_ghlink:"https://github.com/sridharrajaram/blogapp_client.git",
-      BE_ghlink:"https://github.com/sridharrajaram/blogapp_server.git",
+      FE_ghlink: "https://github.com/sridharrajaram/blogapp_client.git",
+      BE_ghlink: "https://github.com/sridharrajaram/blogapp_server.git",
       image: "assets/images/blogapp.png",
       description: {
-        para1: "Publish your ideas your way. Whether you'd like to share your knowledge, experiences or the latest news, create a unique and beautiful blog for free.",
+        para1:
+          "Publish your ideas your way. Whether you'd like to share your knowledge, experiences or the latest news, create a unique and beautiful blog for free.",
         para2:
           "It is an initiative to bring the bloggers across the world to connect with each other and it creates an environment for learning and growing together.",
       },
@@ -227,14 +228,15 @@ export const DETAILS = {
     {
       id: "6",
       title: "CATAAS",
-      subtitle:"Clone Application",
+      subtitle: "Clone Application",
       link: "https://sridharrajaram-react-cataas-replicate.netlify.app",
-      FE_ghlink:"https://github.com/sridharrajaram/react-task8-catsearch.git",
+      FE_ghlink: "https://github.com/sridharrajaram/react-task8-catsearch.git",
       image: "assets/images/cataas.png",
       description: {
         para1:
           "CAT as a service is RESTful API to spread peace and love (or not) thanks to cats.",
-        para2: "Explore the website and search cats with tag names like dance, smile, sad, cry",
+        para2:
+          "Explore the website and search cats with tag names like dance, smile, sad, cry",
       },
     },
   ],
