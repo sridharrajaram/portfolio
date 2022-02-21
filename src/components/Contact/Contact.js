@@ -3,7 +3,8 @@ import "./Contact.css";
 import axios from "axios";
 import { Button, Col, Form, FormGroup, Input, Label } from "reactstrap";
 
-const uri = "http://localhost:5000/send_mail";
+//const uri = "http://localhost:5000/send_mail";
+const uri = "https://sridharrajaram-portfolio.herokuapp.com/send_mail";
 
 function Contact(props) {
   const myProfileDetails = props.details;
