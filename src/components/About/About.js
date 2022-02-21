@@ -55,6 +55,7 @@ function About(props) {
             initial={{ y: 50 }}
             animate={{ y: 0 }}
             transition={{ delay: 0.5, type: "spring", stiffness: 50 }}
+            style={{ marginTop: "20px" }}
           >
             <Card
               className="about-card-style"
@@ -76,7 +77,7 @@ function About(props) {
                   </b>
                   <br />
                   📌Received Best Outgoing Student Award 2008 of ECE Department
-                  from our Honorable College Chairman
+                  from my college chairman
                 </p>
               </CardContent>
             </Card>
@@ -87,6 +88,7 @@ function About(props) {
             initial={{ y: 50 }}
             animate={{ y: 0 }}
             transition={{ delay: 0.5, type: "spring", stiffness: 50 }}
+            style={{ marginTop: "20px" }}
           >
             <Card
               className="about-card-style"
@@ -120,6 +122,7 @@ function About(props) {
             initial={{ y: 50 }}
             animate={{ y: 0 }}
             transition={{ delay: 0.5, type: "spring", stiffness: 50 }}
+            style={{ marginTop: "20px" }}
           >
             <Card
               className="about-card-style"

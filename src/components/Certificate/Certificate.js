@@ -16,6 +16,7 @@ function Certificate(props) {
               <div
                 key={certificate.certid}
                 className="col-12 col-md-6 certificate-tile"
+                style={{ marginTop: "20px" }}
               >
                 <Card
                   className="card-style"
