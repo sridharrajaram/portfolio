@@ -3,7 +3,7 @@ export const DETAILS = {
   logo: "assets/images/name.svg",
   location: "Bengaluru, Karnataka, India",
   resumeLink:
-    "https://drive.google.com/file/d/1qjPoq1KpGN5lBOoo7dPKlJ_9GgnfzZsd/view?usp=sharing",
+    "https://drive.google.com/file/d/1g0aQApyK3IrrzW9rpS5yq2JnZZYHaXKy/view?usp=sharing",
   profile_links: {
     email: {
       link: "srilumia@hotmail.com",
