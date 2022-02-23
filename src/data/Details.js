@@ -3,7 +3,7 @@ export const DETAILS = {
   logo: "assets/images/name.svg",
   location: "Bengaluru, Karnataka, India",
   resumeLink:
-    "https://drive.google.com/file/d/1tWnvRY7CYPifTv1AOzFrjFjLOz4Tt3c7/view?usp=sharing",
+    "https://drive.google.com/file/d/1QRv8sqPyle7Dh5ph4ba-Wk6OCuv9TNUV/view?usp=sharing",
   profile_links: {
     email: {
       link: "srilumia@hotmail.com",
@@ -155,6 +155,7 @@ export const DETAILS = {
     {
       id: "1",
       title: "Money Manager",
+      period: "Sep 2021 - Oct 2021",
       subtitle: "Expense Tracker Application",
       link: "https://sridharrajaram-moneymanager-client.netlify.app/",
       FE_ghlink: "https://github.com/sridharrajaram/moneymanager_client.git",
@@ -169,6 +170,7 @@ export const DETAILS = {
     {
       id: "2",
       title: "CRM",
+      period: "Oct 2021 - Nov 2021",
       subtitle: "Customer Portal Application",
       link: "https://sridharrajaram-crmapp-client.netlify.app/",
       FE_ghlink: "https://github.com/sridharrajaram/crmapp_client.git",
@@ -184,6 +186,7 @@ export const DETAILS = {
     {
       id: "3",
       title: "Ecommerce",
+      period: "Nov 2021 - Jan 2022",
       subtitle: "Shopping Application",
       link: "https://sridharrajaram-ecommerce-client.netlify.app/",
       FE_ghlink: "https://github.com/sridharrajaram/ecommerce_client.git",
@@ -199,6 +202,7 @@ export const DETAILS = {
     {
       id: "4",
       title: "Hotel Booking",
+      period: "Jan 2022",
       subtitle: "Booking Application",
       link: "https://sridharrajaram-hotelbooking-client.netlify.app/",
       FE_ghlink: "https://github.com/sridharrajaram/hotelbooking_client.git",
@@ -213,6 +217,7 @@ export const DETAILS = {
     {
       id: "5",
       title: "CommitHere",
+      period: "Jan 2022 - Feb 2022",
       subtitle: "Blogging Application",
       link: "https://sridharrajaram-blogapp-client.netlify.app/",
       FE_ghlink: "https://github.com/sridharrajaram/blogapp_client.git",
@@ -225,9 +230,10 @@ export const DETAILS = {
           "It is an initiative to bring the bloggers across the world to connect with each other and it creates an environment for learning and growing together.",
       },
     },
-    {
+    /* {
       id: "6",
       title: "CATAAS",
+      period: "Aug 2021",
       subtitle: "Clone Application",
       link: "https://sridharrajaram-react-cataas-replicate.netlify.app",
       FE_ghlink: "https://github.com/sridharrajaram/react-task8-catsearch.git",
@@ -238,7 +244,7 @@ export const DETAILS = {
         para2:
           "Explore the website and search cats with tag names like dance, smile, sad, cry",
       },
-    },
+    }, */
   ],
   experiences: [
     {

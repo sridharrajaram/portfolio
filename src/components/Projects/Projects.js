@@ -77,6 +77,9 @@ function Projects(props) {
                     <CardSubtitle className="mb-2 text-muted" tag="h6">
                       {project.subtitle}
                     </CardSubtitle>
+                    <CardSubtitle className="mb-2 text-muted" tag="h6">
+                      {project.period}
+                    </CardSubtitle>
                   </CardBody>
                   <img
                     alt="project"
@@ -89,7 +92,6 @@ function Projects(props) {
                       <li>{project.description.para1}</li>
                       <li>{project.description.para2}</li>
                     </ul> */}
-
                     <CardLink
                       href={project.link}
                       target="_blank"
