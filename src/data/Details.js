@@ -3,7 +3,7 @@ export const DETAILS = {
   logo: "assets/images/name.svg",
   location: "Bengaluru, Karnataka, India",
   resumeLink:
-    "https://drive.google.com/file/d/1QRv8sqPyle7Dh5ph4ba-Wk6OCuv9TNUV/view?usp=sharing",
+    "https://drive.google.com/file/d/1qjPoq1KpGN5lBOoo7dPKlJ_9GgnfzZsd/view?usp=sharing",
   profile_links: {
     email: {
       link: "srilumia@hotmail.com",
@@ -23,7 +23,7 @@ export const DETAILS = {
   tag_line:
     "Knack of building applications with front and back end operations.",
   about_me: {
-    para1: "<HelloViewer/> warm welcome, nice to see you here",
+    para1: "<HelloViewer/> Warm welcome, nice to see you here",
     para2:
       "I am Sridhar Rajaram, pursed my Bachelor's Degree in Electronics and Communication Engineering from Hindusthan College of Engineering and Technology, Coimbatore.",
     para3:
