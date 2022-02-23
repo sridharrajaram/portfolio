@@ -77,9 +77,6 @@ function Projects(props) {
                     <CardSubtitle className="mb-2 text-muted" tag="h6">
                       {project.subtitle}
                     </CardSubtitle>
-                    <CardSubtitle className="mb-2 text-muted" tag="h6">
-                      {project.period}
-                    </CardSubtitle>
                   </CardBody>
                   <img
                     alt="project"
